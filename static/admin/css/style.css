@@ -1,0 +1,59 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+#debugField {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  font-size: 8px;
+}
+.player {
+  margin-top: 30px;
+}
+.player button,
+.player select {
+  display: block;
+  float: left;
+  width: 50%;
+  background: #000;
+  color: #fff;
+  border: 0;
+  margin: 2px 0;
+  padding: 5px;
+  cursor: pointer;
+  height: 25px;
+  border-right: 2px solid #fff;
+  border-left: 2px solid #fff;
+}
+.player button.done,
+.player select.done {
+  background: green;
+}
+.debug {
+  display: block !important;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+.debug .connection:after {
+  width: 1em;
+  height: 1em;
+  content: '';
+  display: block;
+  border-radius: 100%;
+  background: green;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.debug .connection.off:after {
+  background: red;
+}
+.debug .connection.on {
+  display: none;
+}
+.debug .connection.on:after {
+  background: green;
+}

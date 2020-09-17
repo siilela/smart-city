@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="38px" viewBox="0 0 32 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Element 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="└-App---Story-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Story-2---05-E" transform="translate(-315.000000, -274.000000)" stroke="#FFFFFF">
+            <g id="Element-3" transform="translate(316.000000, 275.000000)">
+                <path d="M18,29 L18,13.0426222 C18.0084972,10.2611071 20.3128256,8.00830722 23.1579626,8 L24.8420374,8 C27.6871744,8.00830722 29.9915028,10.2611071 30,13.0426222 L30,29" id="Shape"></path>
+                <polyline id="Shape" points="22 8 22 0 26 0 26 8"></polyline>
+                <path d="M22,3 L26,3" id="Shape"></path>
+                <path d="M18,15 L30,15" id="Shape"></path>
+                <path d="M18,28 L30,28" id="Shape"></path>
+                <path d="M30,28.9947096 L30,33.516735 C30,34.8882044 28.8453507,36 27.4210187,36 L20.5789813,36 C19.1546493,36 18,34.8882044 18,33.516735 L18,13" id="Shape"></path>
+                <path d="M3.58523691,36 L7,36 L7,29.1440877 C-0.605483637,27.581206 -0.245021134,24.3516053 0.19523841,21.9553641 C0.332819518,21.2098669 0.85837935,19 0.85837935,19 L7,19" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10.4147631,36 L7,36 L7,29.1440877 C14.6054836,27.581206 14.2450211,24.3516053 13.8047616,21.9553641 C13.6699321,21.2098669 13.1416207,19 13.1416207,19 L7,19" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,23 L13,23" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

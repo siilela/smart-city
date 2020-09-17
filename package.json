@@ -1,0 +1,17 @@
+{
+  "name": "iaa-showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "dependencies": {
+    "finalhandler": "^1.0.4",
+    "serve-static": "^1.12.4",
+    "socket.io": "^2.0.3"
+  }
+}
